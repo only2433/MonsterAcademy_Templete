@@ -1,0 +1,4 @@
+#Tue Apr 16 10:53:43 KST 2019
+base.0=D\:\\android_studio_workspace\\MonsterAcademy_Templete\\monsterAcademy\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

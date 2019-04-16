@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411981356890",
+    "firebase_url": "https://storybook-monsteracademy.firebaseio.com",
+    "project_id": "storybook-monsteracademy",
+    "storage_bucket": "storybook-monsteracademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411981356890:android:7ed30f2cfd2a9eca",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.monsteracademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411981356890-j6f28it5609l15qhesg8cc1cdh35nepp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYGPTA_tMKL534-jpmJ9URSynb1U66J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411981356890-j6f28it5609l15qhesg8cc1cdh35nepp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
